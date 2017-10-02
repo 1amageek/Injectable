@@ -1,9 +1,11 @@
-<img src="https://github.com/1amageek/Injectable/blob/master/Injectable.png", width="100%">
+<div style="text-align: center; width: 100%">
+<img src="https://github.com/1amageek/Injectable/blob/master/Injectable.png", width="80%">
 
 
 [![Version](http://img.shields.io/cocoapods/v/Injectable.svg)](http://cocoapods.org/?q=Injectable)
 [![Platform](http://img.shields.io/cocoapods/p/Injectable.svg)](http://cocoapods.org/?q=Injectable)
-[![Downloads](https://img.shields.io/cocoapods/dt/Injectable.svg?label=Total%20Downloads&colorB=28B9FE)(https://cocoapods.org/pods/Injectable)
+[![Downloads](https://img.shields.io/cocoapods/dt/Injectable.svg?label=Total%20Downloads&colorB=28B9FE)](https://cocoapods.org/pods/Injectable)
+</div>
 
 # Injectable
 
