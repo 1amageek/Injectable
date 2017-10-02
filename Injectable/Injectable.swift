@@ -14,7 +14,5 @@ public protocol Injectable {
 }
 
 public extension Injectable where Dependency == Void {
-    func inject(_ dependency: Dependency) {
-
-    }
+    func inject(_ dependency: Dependency) { }
 }
