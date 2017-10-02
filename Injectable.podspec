@@ -1,9 +1,11 @@
 Pod::Spec.new do |s|
   s.name         = "Injectable"
   s.version      = "1.0"
-  s.summary      = "Swift Inject & Dependency"
+  s.summary      = "Swift Dependency Injection"
   s.description  = <<-DESC
-  Swift Inject & Dependency
+  Dependency Injection.
+  The dependency injection pattern leads to code that's modular and testable, and Guice makes it easy to write
+  https://github.com/google/guice/wiki/Motivation
                    DESC
 
   s.homepage     = "https://github.com/1amageek/Injectable"
