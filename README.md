@@ -1,5 +1,9 @@
 # Injectable
-Dependency Injection for Swift
+Dependency Injection for Swift.
+
+The dependency injection pattern leads to code that's modular and testable, and Guice makes it easy to write. 
+
+[Google Guice](https://github.com/google/guice/wiki/Motivation)
 
 ## Installation
 
